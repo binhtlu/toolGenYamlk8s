@@ -1,0 +1,14 @@
+#22-07-2022
+10.110.69.97 new_firebase
+
+
+
+
+
+
+
+10.130.1.8                                                       nft-kafka
+10.60.68.102 postservice
+10.130.1.8 nft-item-service
+10.130.1.6 nft-item-storage-service
+10.130.1.6 nft-item-bs-service
